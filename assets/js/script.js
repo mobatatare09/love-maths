@@ -1,1 +1,8 @@
-console.log(" Connected")
+runGame();
+checkAnswer();
+calculateCorrectAnswer();
+incrementScore();
+incrementWrongAnswer();
+displayAdditionQuestion();
+displaySubtractQuestion();
+displayMultiplyQuestion();
